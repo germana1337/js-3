@@ -1,5 +1,5 @@
 "use strict";
-// პირველი
+// 1
 
 // let sum = 0;
 
@@ -14,7 +14,7 @@
 
 // sumnums (2, -9, 5, 11, -30, 100, -8, -11, -4, 5, -6, 8);
 
-// მეორე
+// 2
 
 // let sum = 0
 // function sumnum(...numbers){
@@ -26,7 +26,7 @@
 
 // sumnum (10, 50, 6, 7, 8, 11, 6, 3, 9);
 
-// მესამე
+// 3
 
 // let user = {
 //     firstname: 'giorgi',
@@ -44,7 +44,7 @@
 //   }
 //   userInfo();
 
-// მეოთხე
+// 4
 
 // let maxnums = (...numbers) => {
 //     console.log(Math.max(...numbers));
@@ -53,7 +53,7 @@
 
 //
 
-// მეხუთე
+// 5
 
 // let array = ["html", "css", "python", "javascript", "bootstrap"];
 
@@ -73,3 +73,5 @@
 //     }
 // }
 // )
+
+//
