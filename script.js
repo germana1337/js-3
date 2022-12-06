@@ -3,17 +3,16 @@
 
 // 
 
-// function sumnums(...numbers){
-    // let sum = 0;
-//     for (let i = 0; i < numbers.length; i++){
-//         if(numbers[i] >= 0){
-//             sum += numbers[i];
-//         }
+// function randomNumbers(...rnums){
+//     let sum = 0;
+//     for(let i = 0; i < rnums.length; i++)
+//     if(rnums[i] >= 0){
+//         sum += rnums[i]
 //     }
-//     return sum
-// }
-
-// sumnums (2, -9, 5, 11, -30, 100, -8, -11, -4, 5, -6, 8);
+//     console.log(sum);
+//     }
+    
+//     randomNumbers(2, -9, 5, 11, -30, 100, -8, -11, -4, 5, -6, 8);
 
 // 2
 
