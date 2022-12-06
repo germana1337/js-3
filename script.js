@@ -1,9 +1,10 @@
 "use strict";
 // 1
 
-// let sum = 0;
+// 
 
 // function sumnums(...numbers){
+    // let sum = 0;
 //     for (let i = 0; i < numbers.length; i++){
 //         if(numbers[i] >= 0){
 //             sum += numbers[i];
@@ -47,7 +48,7 @@
 // 4
 
 // let maxnums = (...numbers) => {
-//     console.log(Math.max(...numbers));
+//     return(Math.max(...numbers));
 // }
 //  maxnums(120,,330,50,14,21,56,90);
 
@@ -59,7 +60,7 @@
 
 // for (var i = 0; i < array.length; i++) {
 //   if (array[i].length > 4 && array[i].includes("av")) {
-//     console.log(array[i]);
+//    return (array[i]);
 //   }
 // }
 
@@ -69,7 +70,7 @@
 // array2.forEach(function(json) {
 //     if (json.length > 4 && json.includes("av")  )
 //     {
-//         console.log(json);
+//         return (json);
 //     }
 // }
 // )
