@@ -9,7 +9,7 @@
 //     if(rnums[i] >= 0){
 //         sum += rnums[i]
 //     }
-//     console.log(sum);
+//     return(sum);
 //     }
     
 //     randomNumbers(2, -9, 5, 11, -30, 100, -8, -11, -4, 5, -6, 8);
@@ -22,7 +22,7 @@
 //     for(let i = 0; i < numbers.length; i++){
 //         sum += numbers[i]
 //     }
-//     return sum
+//     return (sum);
 // }
 
 // sumnum (10, 50, 6, 7, 8, 11, 6, 3, 9);
@@ -32,18 +32,20 @@
 // let user = {
 //     firstname: 'giorgi',
 //     lastname: 'saakadze',
-//     age: 32,
+//     age: 39,
 //     isloggedin: true
 //   }
 
-//   function userInfo(){
+//  function userInfo(){
 //     if(user.isloggedin == true){
-//         return (user.firstname + " " + user.lastname);
-//     } else {
-//         'false'
+//         return(user.firstname + " " + user.lastname);
+//     }else if (user.isloggedin != true){
+//         return('error');
 //     }
-//   }
-//   userInfo();
+//  }
+//  userInfo();
+
+
 
 // 4
 
